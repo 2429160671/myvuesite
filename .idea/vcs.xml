@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../djangoWeb正式" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/my-project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/practice" vcs="Git" />
     <mapping directory="C:/learn/vueproject/practice" vcs="Git" />
