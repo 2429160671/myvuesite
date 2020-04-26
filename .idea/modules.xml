@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../djangoWeb正式/.idea/djangoWeb正式.iml" filepath="$PROJECT_DIR$/../djangoWeb正式/.idea/djangoWeb正式.iml" />
+      <module fileurl="file://C:/learn/vueproject/jsonserver/.idea/jsonserver.iml" filepath="C:/learn/vueproject/jsonserver/.idea/jsonserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myvuesite.iml" filepath="$PROJECT_DIR$/.idea/myvuesite.iml" />
+      <module fileurl="file://C:/learn/vueproject/practice/.idea/practice.iml" filepath="C:/learn/vueproject/practice/.idea/practice.iml" />
+    </modules>
+  </component>
+</project>

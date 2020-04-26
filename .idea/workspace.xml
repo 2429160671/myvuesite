@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f6b2927-30de-4446-9022-39d9a09436df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/practice/src/components/Add.vue" afterDir="false" />
+      <change afterPath="C:/learn/vueproject/practice/src/components/Add.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/practice/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/practice/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main.js" afterDir="false" />
+      <change beforePath="C:/learn/vueproject/practice/package-lock.json" beforeDir="false" afterPath="C:/learn/vueproject/practice/package-lock.json" afterDir="false" />
+      <change beforePath="C:/learn/vueproject/practice/package.json" beforeDir="false" afterPath="C:/learn/vueproject/practice/package.json" afterDir="false" />
+      <change beforePath="C:/learn/vueproject/practice/public/index.html" beforeDir="false" afterPath="C:/learn/vueproject/practice/public/index.html" afterDir="false" />
+      <change beforePath="C:/learn/vueproject/practice/src/App.vue" beforeDir="false" afterPath="C:/learn/vueproject/practice/src/App.vue" afterDir="false" />
+      <change beforePath="C:/learn/vueproject/practice/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="C:/learn/vueproject/practice/src/main.js" beforeDir="false" afterPath="C:/learn/vueproject/practice/src/main.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="C:/learn/vueproject/practice" />
+  </component>
+  <component name="ProjectId" id="1b3wz23HNgzd4f9WNMAMvTScksE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/learn/vueproject/practice/public" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\learn\vueproject\practice\public" />
+      <recent name="C:\learn\vueproject\practice\src\assets" />
+      <recent name="C:\Users\24291\Desktop\项目代码\myvuesite\practice\dist\static\js" />
+      <recent name="C:\Users\24291\Desktop\项目代码\myvuesite\practice\dist\static" />
+      <recent name="C:\learn\vueproject\practice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\learn\vueproject\practice\public" />
+      <recent name="C:\learn\vueproject\practice\src\assets" />
+      <recent name="C:\Users\24291\Desktop\项目代码\myvuesite\practice\public" />
+      <recent name="C:\learn\vueproject\practice\src\views" />
+      <recent name="C:\learn\vueproject\practice\src\assets\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f6b2927-30de-4446-9022-39d9a09436df" name="Default Changelist" comment="" />
+      <created>1587874421085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587874421085</updated>
+      <workItem from="1587874422235" duration="8222000" />
+      <workItem from="1587883487793" duration="868000" />
+      <workItem from="1587889330006" duration="1329000" />
+      <workItem from="1587891147688" duration="2966000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
