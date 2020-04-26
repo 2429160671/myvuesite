@@ -4,8 +4,7 @@
     <list default="true" id="6f6b2927-30de-4446-9022-39d9a09436df" name="Default Changelist" comment="">
       <change afterPath="C:/learn/vueproject/practice/src/components/Add.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvuesite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvuesite/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvuesite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvuesite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
       <change beforePath="C:/learn/vueproject/practice/package-lock.json" beforeDir="false" afterPath="C:/learn/vueproject/practice/package-lock.json" afterDir="false" />
       <change beforePath="C:/learn/vueproject/practice/package.json" beforeDir="false" afterPath="C:/learn/vueproject/practice/package.json" afterDir="false" />
       <change beforePath="C:/learn/vueproject/practice/public/index.html" beforeDir="false" afterPath="C:/learn/vueproject/practice/public/index.html" afterDir="false" />
@@ -79,7 +78,7 @@
       <workItem from="1587883487793" duration="868000" />
       <workItem from="1587889330006" duration="1329000" />
       <workItem from="1587891147688" duration="2966000" />
-      <workItem from="1587898813456" duration="640000" />
+      <workItem from="1587898813456" duration="1485000" />
     </task>
     <servers />
   </component>
