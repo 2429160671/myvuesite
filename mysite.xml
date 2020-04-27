@@ -1,5 +1,5 @@
 <uwsgi>
-    <socket>127.0.0.1:80</socket><!-- 内部端口，自定义 -->
+    <socket>127.0.0.1:8000</socket><!-- 内部端口，自定义 -->
      <chdir>/data/wwwroot/myvuesite/</chdir><!-- 项目路径 -->
     <module>mysite.wsgi</module>
      <processes>4</processes> <!-- 进程数 -->
