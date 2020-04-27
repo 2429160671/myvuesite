@@ -5,7 +5,6 @@
       <change afterPath="C:/learn/vueproject/practice/src/components/Add.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myvuesite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvuesite/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvuesite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvuesite/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myvuesite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvuesite/urls.py" afterDir="false" />
       <change beforePath="C:/learn/vueproject/practice/package-lock.json" beforeDir="false" afterPath="C:/learn/vueproject/practice/package-lock.json" afterDir="false" />
       <change beforePath="C:/learn/vueproject/practice/package.json" beforeDir="false" afterPath="C:/learn/vueproject/practice/package.json" afterDir="false" />
@@ -35,6 +34,7 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../djangoWeb正式" />
   </component>
@@ -83,7 +83,7 @@
       <workItem from="1587898813456" duration="2899000" />
       <workItem from="1587903378309" duration="242000" />
       <workItem from="1587903785721" duration="1603000" />
-      <workItem from="1587957017049" duration="8723000" />
+      <workItem from="1587957017049" duration="14392000" />
     </task>
     <servers />
   </component>

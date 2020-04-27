@@ -16,7 +16,7 @@ Vue.use(VueRouter);                     //注册
 
 const router = new VueRouter({
   mode:'history',
-  base:__dirname,
+  base:_dirname,
   routes: [
     {path: '/',component: Customer},
     {path: '/about',component: About},
