@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',   # 数据库引擎
         'NAME': 'vue',         # 你要存储数据的库名，事先要创建之
         'USER': 'root',         # 数据库用户名
-        'PASSWORD': 'Ennio@123',     # 密码
+        'PASSWORD': 'wen52010',     # 密码
         'HOST': 'localhost',    # 主机
         'PORT': '3306',         # 数据库使用的端口
     }
@@ -122,10 +122,9 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
-FRONTEND_ROOT = 'practice/dist'
 STATIC_URL = '/static/'
 
-STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, FRONTEND_ROOT),
-    os.path.join(BASE_DIR, FRONTEND_ROOT + '/static'),
-)
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, "practice/dist/static"),
+]
+
