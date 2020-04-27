@@ -23,7 +23,6 @@ from django.conf import settings ##新增
 urlpatterns = [
     path('admin/', admin.site.urls),
     path(r'', TemplateView.as_view(template_name='index.html')),
-    path(r'^static/(?P<path>.*)$', static.serve,{'document_root': settings.STATIC_ROOT}, name='static')
-
+    path(r'^static/(?P<path>.*)$', static.serve, {'document_root': settings.STATIC_ROOT}, name='static')
 
 ]
