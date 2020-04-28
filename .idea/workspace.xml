@@ -4,8 +4,32 @@
     <list default="true" id="6f6b2927-30de-4446-9022-39d9a09436df" name="Default Changelist" comment="">
       <change afterPath="C:/learn/vueproject/practice/src/components/Add.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvuesite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvuesite/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myvuesite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvuesite/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myvuesite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myvuesite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/dist/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/dist/static/js/app.da905a19.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/dist/static/js/app.da905a19.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/dist/static/js/chunk-vendors.8899f14f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/dist/static/js/chunk-vendors.8899f14f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/components/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/components/Add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/components/Alert.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/components/Edit.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/components/Users.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/views/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/views/u.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/vue.config.js" beforeDir="false" />
       <change beforePath="C:/learn/vueproject/practice/package-lock.json" beforeDir="false" afterPath="C:/learn/vueproject/practice/package-lock.json" afterDir="false" />
       <change beforePath="C:/learn/vueproject/practice/package.json" beforeDir="false" afterPath="C:/learn/vueproject/practice/package.json" afterDir="false" />
       <change beforePath="C:/learn/vueproject/practice/public/index.html" beforeDir="false" afterPath="C:/learn/vueproject/practice/public/index.html" afterDir="false" />
@@ -23,6 +47,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -36,22 +61,22 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../djangoWeb正式" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\24291\Desktop\项目代码\vue\myvuesite" />
-      <recent name="C:\Users\24291\Desktop\项目代码\vue\myvuesite\practice\dist\static" />
-      <recent name="C:\learn\vueproject\practice\public" />
-      <recent name="C:\learn\vueproject\practice\src\assets" />
-      <recent name="C:\Users\24291\Desktop\项目代码\myvuesite\practice\public" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\learn\vueproject\practice\public" />
       <recent name="C:\learn\vueproject\practice\src\assets" />
       <recent name="C:\Users\24291\Desktop\项目代码\myvuesite\practice\dist\static\js" />
       <recent name="C:\Users\24291\Desktop\项目代码\myvuesite\practice\dist\static" />
       <recent name="C:\learn\vueproject\practice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\24291\Desktop\项目代码\vue\myvuesite" />
+      <recent name="C:\Users\24291\Desktop\项目代码\vue\myvuesite\practice\dist\static" />
+      <recent name="C:\learn\vueproject\practice\public" />
+      <recent name="C:\learn\vueproject\practice\src\assets" />
+      <recent name="C:\Users\24291\Desktop\项目代码\myvuesite\practice\public" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -83,7 +108,9 @@
       <workItem from="1587898813456" duration="2899000" />
       <workItem from="1587903378309" duration="242000" />
       <workItem from="1587903785721" duration="1603000" />
-      <workItem from="1587957017049" duration="14392000" />
+      <workItem from="1587957017049" duration="21600000" />
+      <workItem from="1588052372871" duration="1523000" />
+      <workItem from="1588058565761" duration="354000" />
     </task>
     <servers />
   </component>

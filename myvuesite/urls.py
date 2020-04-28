@@ -21,6 +21,5 @@ from ennio import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path(r'', TemplateView.as_view(template_name='index.html')),
-    path('test', views.test)
+    path(r'', views.index),
 ]
